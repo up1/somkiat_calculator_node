@@ -1,6 +1,6 @@
 {
   "name": "up1-calculator",
-  "version": "0.1.7",
+  "version": "1.0.1",
   "description": "Try to create my module",
   "main": "index.js",
   "scripts": {
