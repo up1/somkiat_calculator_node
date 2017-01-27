@@ -2,7 +2,7 @@
   "name": "somkiat.calculator",
   "version": "1.0.0",
   "description": "Try to create my module",
-  "main": "calculator.js",
+  "main": "somkiat_calculator_node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
