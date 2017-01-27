@@ -1,5 +1,5 @@
 {
-  "name": "somkiat.calculator",
+  "name": "somkiat_calculator_node",
   "version": "1.0.0",
   "description": "Try to create my module",
   "main": "somkiat_calculator_node.js",
